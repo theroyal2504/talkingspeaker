@@ -1,4 +1,4 @@
-
+#pls pip  install pypiwin32
 from win32com.client import Dispatch
 print("Wellcome to Speak")
 print("NOTE :- enjoy in program and  exit to press Z key to enter \n Thankyou")
